@@ -12,19 +12,8 @@ namespace Lab1OOP
 {
     public partial class Form1 : Form
     {
-        private bool drawCircle = false;
-        private bool drawEllipse = false;
-        private bool drawParallelogram = false;
-        private bool drawRectangle = false;
-        private bool drawSquare = false;
-        private bool drawLine = false;  
 
-        private Parallelogram polygon = new Parallelogram();
-        private Rectangle Rect = new Rectangle();
-        private Square sq = new Square();
-        private Ellipse ellipse = new Ellipse();
-        private Circle circle = new Circle();   
-        private Line line = new Line(); 
+        private Figure CurrentFigure = null;
 
         public Form1()  
         {
@@ -50,79 +39,56 @@ namespace Lab1OOP
                 return;
             Graphics graphics = CreateGraphics();
             Point points = new Point(e.X, e.Y);
-            if (drawParallelogram)
+            
+            if (CurrentFigure != null)
             {
-                polygon.Draw(graphics, points);
-                drawParallelogram = false;
-            }
-            else if (drawRectangle)
-            {
-                Rect.Draw(graphics, points);
-                drawRectangle = false;
-            }
-            else if (drawSquare)
-            {
-                sq.Draw(graphics, points);
-                drawSquare = false;
-            }
-            else if (drawEllipse)
-            {
-                ellipse.Draw(graphics, points);
-                drawEllipse = false;
-            }
-            else if (drawCircle)
-            {
-                circle.Draw(graphics, points);
-                drawCircle = false;
-            }
-            else if (drawLine)
-            {
-                line.Draw(graphics, points);    
-                drawLine = false;
+                CurrentFigure.Draw(graphics, points);
             }
         }
 
         private void PrintParallelogramButton_Click(object sender, EventArgs e)
         {
 
-            drawParallelogram = true;
-            polygon.Message();
+            CurrentFigure = new Parallelogram();
+            CurrentFigure.Message();
         }
 
         private void PaintRectangleButton_Click(object sender, EventArgs e)
         {
-            drawRectangle = true;
-            Rect.Message();
+            CurrentFigure = new Rectangle();
+            CurrentFigure.Message();
         }
 
         private void PaintSquarebutton_Click(object sender, EventArgs e)
         {
-            drawSquare = true;
-            sq.Message();
+            CurrentFigure = new Square();
+            CurrentFigure.Message();
         }
 
-        private void PaintSquarebutton_Paint(object sender, PaintEventArgs e)
-        {
-            Graphics g = CreateGraphics();
-            g.DrawLine(Pens.Black, 200, 0, 200, 500);
-        }
 
         private void PaintEllipsebutton_Click(object sender, EventArgs e)
         {
-            drawEllipse = true;
-            ellipse.Message();
+            CurrentFigure = new Ellipse();
+            CurrentFigure.Message();
         }
 
         private void PaintCirclebutton_Click(object sender, EventArgs e)
         {
-            drawCircle = true;
-            circle.Message();
+            CurrentFigure = new Circle();
+            CurrentFigure.Message();
         }
 
         private void PaintLinebutton_Click(object sender, EventArgs e)
         {
-            drawLine=true;
-            line.Message();
+            CurrentFigure = new Line();
+            CurrentFigure.Message();
+        }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics g = CreateGraphics();
+            g.DrawLine(Pens.Black, 200, 0, 200, 500);
+            g.FillRectangle(Brushes.AntiqueWhite, 0, 0, 200, 500);
         }
     }
 }

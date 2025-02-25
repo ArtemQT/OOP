@@ -80,7 +80,6 @@
             this.PaintSquarebutton.Text = "Квадрат";
             this.PaintSquarebutton.UseVisualStyleBackColor = true;
             this.PaintSquarebutton.Click += new System.EventHandler(this.PaintSquarebutton_Click);
-            this.PaintSquarebutton.Paint += new System.Windows.Forms.PaintEventHandler(this.PaintSquarebutton_Paint);
             // 
             // PaintEllipsebutton
             // 
@@ -130,7 +129,8 @@
             this.Controls.Add(this.PaintRectangleButton);
             this.Controls.Add(this.PrintParallelogramButton);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "PaintForm";
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseClick);
             this.ResumeLayout(false);
 
