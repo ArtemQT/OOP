@@ -13,13 +13,18 @@ namespace Lab1OOP
     public partial class Form1 : Form
     {
         private bool drawCircle = false;
+        private bool drawEllipse = false;
         private bool drawParallelogram = false;
         private bool drawRectangle = false;
         private bool drawSquare = false;
+        private bool drawLine = false;  
 
         private Parallelogram polygon = new Parallelogram();
         private Rectangle Rect = new Rectangle();
         private Square sq = new Square();
+        private Ellipse ellipse = new Ellipse();
+        private Circle circle = new Circle();   
+        private Line line = new Line(); 
 
         public Form1()  
         {
@@ -60,6 +65,21 @@ namespace Lab1OOP
                 sq.Draw(graphics, points);
                 drawSquare = false;
             }
+            else if (drawEllipse)
+            {
+                ellipse.Draw(graphics, points);
+                drawEllipse = false;
+            }
+            else if (drawCircle)
+            {
+                circle.Draw(graphics, points);
+                drawCircle = false;
+            }
+            else if (drawLine)
+            {
+                line.Draw(graphics, points);    
+                drawLine = false;
+            }
         }
 
         private void PrintParallelogramButton_Click(object sender, EventArgs e)
@@ -85,6 +105,24 @@ namespace Lab1OOP
         {
             Graphics g = CreateGraphics();
             g.DrawLine(Pens.Black, 200, 0, 200, 500);
+        }
+
+        private void PaintEllipsebutton_Click(object sender, EventArgs e)
+        {
+            drawEllipse = true;
+            ellipse.Message();
+        }
+
+        private void PaintCirclebutton_Click(object sender, EventArgs e)
+        {
+            drawCircle = true;
+            circle.Message();
+        }
+
+        private void PaintLinebutton_Click(object sender, EventArgs e)
+        {
+            drawLine=true;
+            line.Message();
         }
     }
 }

@@ -33,6 +33,9 @@
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.PaintRectangleButton = new System.Windows.Forms.Button();
             this.PaintSquarebutton = new System.Windows.Forms.Button();
+            this.PaintEllipsebutton = new System.Windows.Forms.Button();
+            this.PaintCirclebutton = new System.Windows.Forms.Button();
+            this.PaintLinebutton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // PrintParallelogramButton
@@ -79,11 +82,50 @@
             this.PaintSquarebutton.Click += new System.EventHandler(this.PaintSquarebutton_Click);
             this.PaintSquarebutton.Paint += new System.Windows.Forms.PaintEventHandler(this.PaintSquarebutton_Paint);
             // 
+            // PaintEllipsebutton
+            // 
+            this.PaintEllipsebutton.Font = new System.Drawing.Font("Courier New", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.PaintEllipsebutton.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.PaintEllipsebutton.Location = new System.Drawing.Point(12, 191);
+            this.PaintEllipsebutton.Name = "PaintEllipsebutton";
+            this.PaintEllipsebutton.Size = new System.Drawing.Size(219, 50);
+            this.PaintEllipsebutton.TabIndex = 3;
+            this.PaintEllipsebutton.Text = "Эллипс";
+            this.PaintEllipsebutton.UseVisualStyleBackColor = true;
+            this.PaintEllipsebutton.Click += new System.EventHandler(this.PaintEllipsebutton_Click);
+            // 
+            // PaintCirclebutton
+            // 
+            this.PaintCirclebutton.Font = new System.Drawing.Font("Courier New", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.PaintCirclebutton.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.PaintCirclebutton.Location = new System.Drawing.Point(12, 247);
+            this.PaintCirclebutton.Name = "PaintCirclebutton";
+            this.PaintCirclebutton.Size = new System.Drawing.Size(219, 50);
+            this.PaintCirclebutton.TabIndex = 4;
+            this.PaintCirclebutton.Text = "Круг";
+            this.PaintCirclebutton.UseVisualStyleBackColor = true;
+            this.PaintCirclebutton.Click += new System.EventHandler(this.PaintCirclebutton_Click);
+            // 
+            // PaintLinebutton
+            // 
+            this.PaintLinebutton.Font = new System.Drawing.Font("Courier New", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.PaintLinebutton.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.PaintLinebutton.Location = new System.Drawing.Point(12, 303);
+            this.PaintLinebutton.Name = "PaintLinebutton";
+            this.PaintLinebutton.Size = new System.Drawing.Size(219, 50);
+            this.PaintLinebutton.TabIndex = 5;
+            this.PaintLinebutton.Text = "Линия";
+            this.PaintLinebutton.UseVisualStyleBackColor = true;
+            this.PaintLinebutton.Click += new System.EventHandler(this.PaintLinebutton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.PaintLinebutton);
+            this.Controls.Add(this.PaintCirclebutton);
+            this.Controls.Add(this.PaintEllipsebutton);
             this.Controls.Add(this.PaintSquarebutton);
             this.Controls.Add(this.PaintRectangleButton);
             this.Controls.Add(this.PrintParallelogramButton);
@@ -100,6 +142,9 @@
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.Button PaintRectangleButton;
         private System.Windows.Forms.Button PaintSquarebutton;
+        private System.Windows.Forms.Button PaintEllipsebutton;
+        private System.Windows.Forms.Button PaintCirclebutton;
+        private System.Windows.Forms.Button PaintLinebutton;
     }
 }
 

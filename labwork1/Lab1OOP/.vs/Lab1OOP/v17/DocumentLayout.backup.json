@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\\u043E\u043E\u043F\\labwork1\\lab1oop\\lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\\u043E\u043E\u043F\\labwork1\\lab1oop\\lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\\u043E\u043E\u043F\\labwork1\\lab1oop\\lab1oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\\u043E\u043E\u043F\\labwork1\\lab1oop\\lab1oop\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\\u043E\u043E\u043F\\labwork1\\lab1oop\\lab1oop\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\\u043E\u043E\u043F\\labwork1\\lab1oop\\lab1oop\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\\u043E\u043E\u043F\\labwork1\\lab1oop\\lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,75 +22,25 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Figure.cs",
-              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Figure.cs",
-              "RelativeDocumentMoniker": "Lab1OOP\\Figure.cs",
-              "ToolTip": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Figure.cs",
-              "RelativeToolTip": "Lab1OOP\\Figure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T18:39:39.333Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Parallelogram.cs",
-              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Parallelogram.cs",
-              "RelativeDocumentMoniker": "Lab1OOP\\Parallelogram.cs",
-              "ToolTip": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Parallelogram.cs",
-              "RelativeToolTip": "Lab1OOP\\Parallelogram.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T18:44:54.439Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Form1.cs",
               "RelativeDocumentMoniker": "Lab1OOP\\Form1.cs",
               "ToolTip": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Form1.cs",
               "RelativeToolTip": "Lab1OOP\\Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADgvx0AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAEwE8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T16:51:40.602Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Square.cs",
-              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Square.cs",
-              "RelativeDocumentMoniker": "Lab1OOP\\Square.cs",
-              "ToolTip": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Square.cs",
-              "RelativeToolTip": "Lab1OOP\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:34:10.753Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Lab1OOP\\Rectangle.cs",
-              "ToolTip": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Rectangle.cs",
-              "RelativeToolTip": "Lab1OOP\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:20:00.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Form1.cs",
               "RelativeDocumentMoniker": "Lab1OOP\\Form1.cs",
