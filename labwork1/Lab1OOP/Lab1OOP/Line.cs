@@ -19,5 +19,10 @@ namespace Lab1OOP
         {
             MessageBox.Show("Вы выбрали линию", "Выбранная фигура");
         }
+
+        public override void AddToListBox(ListBox listBox)
+        {
+            listBox.Items.Add("Линия");
+        }
     }
 }

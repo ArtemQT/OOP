@@ -10,6 +10,7 @@ namespace Lab1OOP
 {
     public class Rectangle : Parallelogram
     {
+      
         public override void Draw(Graphics g, Point p)
         {
             g.DrawRectangle(Pens.Black, p.X, p.Y, 120, 50);
@@ -18,6 +19,11 @@ namespace Lab1OOP
         public override void Message()
         {
             MessageBox.Show("Вы выбрали прямоугольник", "Выбранная фигура");
+        }
+
+        public override void AddToListBox(ListBox listBox)
+        {
+            listBox.Items.Add("Прямоугольник");
         }
     }
 }

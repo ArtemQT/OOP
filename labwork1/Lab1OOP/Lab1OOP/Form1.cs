@@ -14,6 +14,7 @@ namespace Lab1OOP
     {
 
         private Figure CurrentFigure = null;
+        private FigureList ListOfFigures = new FigureList();
 
         public Form1()  
         {
@@ -50,18 +51,21 @@ namespace Lab1OOP
         {
 
             CurrentFigure = new Parallelogram();
+            ListOfFigures.AddList(CurrentFigure, HistoryListBox);
             CurrentFigure.Message();
         }
 
         private void PaintRectangleButton_Click(object sender, EventArgs e)
         {
             CurrentFigure = new Rectangle();
+            ListOfFigures.AddList(CurrentFigure, HistoryListBox);
             CurrentFigure.Message();
         }
 
         private void PaintSquarebutton_Click(object sender, EventArgs e)
         {
             CurrentFigure = new Square();
+            ListOfFigures.AddList(CurrentFigure, HistoryListBox);
             CurrentFigure.Message();
         }
 
@@ -69,18 +73,21 @@ namespace Lab1OOP
         private void PaintEllipsebutton_Click(object sender, EventArgs e)
         {
             CurrentFigure = new Ellipse();
+            ListOfFigures.AddList(CurrentFigure, HistoryListBox);
             CurrentFigure.Message();
         }
 
         private void PaintCirclebutton_Click(object sender, EventArgs e)
         {
             CurrentFigure = new Circle();
+            ListOfFigures.AddList(CurrentFigure, HistoryListBox);
             CurrentFigure.Message();
         }
 
         private void PaintLinebutton_Click(object sender, EventArgs e)
         {
             CurrentFigure = new Line();
+            ListOfFigures.AddList(CurrentFigure, HistoryListBox);
             CurrentFigure.Message();
         }
 

@@ -36,6 +36,7 @@
             this.PaintEllipsebutton = new System.Windows.Forms.Button();
             this.PaintCirclebutton = new System.Windows.Forms.Button();
             this.PaintLinebutton = new System.Windows.Forms.Button();
+            this.HistoryListBox = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // PrintParallelogramButton
@@ -117,11 +118,22 @@
             this.PaintLinebutton.UseVisualStyleBackColor = true;
             this.PaintLinebutton.Click += new System.EventHandler(this.PaintLinebutton_Click);
             // 
+            // HistoryListBox
+            // 
+            this.HistoryListBox.Font = new System.Drawing.Font("Courier New", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.HistoryListBox.FormattingEnabled = true;
+            this.HistoryListBox.ItemHeight = 20;
+            this.HistoryListBox.Location = new System.Drawing.Point(12, 373);
+            this.HistoryListBox.Name = "HistoryListBox";
+            this.HistoryListBox.Size = new System.Drawing.Size(219, 144);
+            this.HistoryListBox.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 532);
+            this.Controls.Add(this.HistoryListBox);
             this.Controls.Add(this.PaintLinebutton);
             this.Controls.Add(this.PaintCirclebutton);
             this.Controls.Add(this.PaintEllipsebutton);
@@ -145,6 +157,7 @@
         private System.Windows.Forms.Button PaintEllipsebutton;
         private System.Windows.Forms.Button PaintCirclebutton;
         private System.Windows.Forms.Button PaintLinebutton;
+        private System.Windows.Forms.ListBox HistoryListBox;
     }
 }
 
