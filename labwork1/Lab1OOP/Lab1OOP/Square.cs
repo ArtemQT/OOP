@@ -10,10 +10,12 @@ namespace Lab1OOP
 {
         public class Square : Rectangle
         {
-            public override void Draw(Graphics g, Point p)
+
+            public Square(int x, int y, int width, int height) : base(x, y, width,height) { }
+            public override void Draw(Graphics g)
             {
-                g.DrawRectangle(Pens.Black, p.X, p.Y, 50, 50);
-                g.FillRectangle(Brushes.BurlyWood, p.X, p.Y, 50, 50);
+                g.DrawRectangle(Pens.Black, X, Y, Width, Height);
+                g.FillRectangle(Brushes.BurlyWood, X, Y, Width, Height);
             }
             public override void Message()
             {

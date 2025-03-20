@@ -10,20 +10,25 @@ namespace Lab1OOP
 {
     public class Parallelogram : Figure
     {
-        public override void Draw(Graphics g, Point p)
+        protected int Width {  get; set; }
+        protected int Height { get; set; }
+
+        public Parallelogram(int x, int y,int width, int height) : base(x, y)
         {
+            Width = width;
+            Height = height;
+        }
 
-
-            int width = 100; 
-            int height = 50; 
+        public override void Draw(Graphics g)
+        {
             int offset = 20; 
 
             Point[] PointsForPolygon = new Point[]
             {
-                new Point(p.X, p.Y),
-                new Point(p.X + width, p.Y),
-                new Point(p.X + width - offset, p.Y + height),
-                new Point(p.X - offset, p.Y + height)
+                new Point(X, Y),
+                new Point(X + Width, Y),
+                new Point(X + Width - offset, Y + Height),
+                new Point(X - offset, Y + Height)
             };
 
             g.DrawPolygon(Pens.Black, PointsForPolygon);

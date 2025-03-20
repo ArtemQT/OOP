@@ -10,10 +10,13 @@ namespace Lab1OOP
 {
     public class Circle : Ellipse
     {
-        public override void Draw(Graphics g, Point p)
+        protected int Radius { get; set; }
+        public Circle(int x, int y, int width, int height) : base(x, y, width, height) { }
+
+        public override void Draw(Graphics g)
         {
-            g.DrawEllipse(Pens.Black, p.X, p.Y, 50, 50);
-            g.FillEllipse(Brushes.DeepPink, p.X, p.Y, 50, 50);
+            g.DrawEllipse(Pens.Black, X, Y, Width, Height);
+            g.FillEllipse(Brushes.DeepPink, X, Y, Width, Height);
         }
 
         public override void Message()
@@ -25,5 +28,6 @@ namespace Lab1OOP
         {
             listBox.Items.Add("Круг");
         }
+            
     }
 }

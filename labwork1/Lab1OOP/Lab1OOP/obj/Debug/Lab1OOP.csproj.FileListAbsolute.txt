@@ -8,3 +8,13 @@ D:\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csproj.GenerateResource.cac
 D:\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csproj.CoreCompileInputs.cache
 D:\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.exe
 D:\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.pdb
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csproj.AssemblyReference.cache
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.Form1.resources
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.Properties.Resources.resources
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csproj.GenerateResource.cache
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csproj.CoreCompileInputs.cache
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.exe
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.pdb
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.exe.config
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.exe
+D:\2 курс 1 сем\ООП\labwork1\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.pdb

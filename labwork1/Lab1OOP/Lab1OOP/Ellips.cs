@@ -10,10 +10,19 @@ namespace Lab1OOP
 {
     public class Ellipse : Figure
     {
-        public override void Draw(Graphics g, Point p)
+        protected int Width {  get; set; }
+        protected int Height { get; set; }
+
+        public Ellipse(int x, int y, int width, int height) : base(x, y)
         {
-            g.DrawEllipse(Pens.Black, p.X, p.Y, 100, 50);
-            g.FillEllipse(Brushes.Coral, p.X, p.Y, 100, 50);
+            Width = width;
+            Height = height;
+        }
+
+        public override void Draw(Graphics g)
+        {
+            g.DrawEllipse(Pens.Black, X, Y, Width, Height);
+            g.FillEllipse(Brushes.Coral, X, Y, Width, Height);
         }
 
         public override void Message()
