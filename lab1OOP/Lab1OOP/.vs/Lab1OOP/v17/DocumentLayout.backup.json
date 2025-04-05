@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u043E\u043E\u043F\\lab1oop\\lab1oop\\lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\ellips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\ellips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\lab1oop\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Form1.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Form1.cs",
+              "RelativeToolTip": "Lab1OOP\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:51:40.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parallelogram.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Parallelogram.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Parallelogram.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Parallelogram.cs",
+              "RelativeToolTip": "Lab1OOP\\Parallelogram.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:03:26.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Figure.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Figure.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Figure.cs",
+              "RelativeToolTip": "Lab1OOP\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:02:49.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\List.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\List.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\List.cs",
+              "RelativeToolTip": "Lab1OOP\\List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:51:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ellips.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Ellips.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Ellips.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Ellips.cs",
+              "RelativeToolTip": "Lab1OOP\\Ellips.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:50:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Line.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Line.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Line.cs",
+              "RelativeToolTip": "Lab1OOP\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:50:39.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Square.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Square.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Square.cs",
+              "RelativeToolTip": "Lab1OOP\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:50:21.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Circle.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Circle.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Circle.cs",
+              "RelativeToolTip": "Lab1OOP\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:44:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Rectangle.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Rectangle.cs",
+              "RelativeToolTip": "Lab1OOP\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:58:13.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab1OOP\\Lab1OOP\\Lab1OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Form1.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u041E\u041E\u041F\\labwork1\\Lab1OOP\\Lab1OOP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:51:15.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|d:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u043E\u043E\u043F\\lab2oop\\lab2oop\\lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\lab1oop\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97943B6E-6AE9-489D-9821-D9A23E0F3C74}|Lab1OOP\\Lab1OOP.csproj|solutionrelative:lab1oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\Lab1OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Form1.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\Lab1OOP\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab1OOP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:39:51.915Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\Lab1OOP\\Factory.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Factory.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\Lab1OOP\\Factory.cs",
+              "RelativeToolTip": "Lab1OOP\\Factory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:41:47.01Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\Lab1OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1OOP\\Form1.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\lab2OOP\\Lab2OOP\\Lab1OOP\\Form1.cs",
+              "RelativeToolTip": "Lab1OOP\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:39:05.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
